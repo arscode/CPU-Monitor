@@ -156,5 +156,8 @@ behaviour). Run it from source as shown in **Run from source** above.
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0 or later —
-see the [LICENSE](LICENSE) file for the full text.
+This project is licensed under the **GNU General Public License v3.0 or later**
+(GPL-3.0-or-later) — © 2026 Arunabha Saha.
+
+See the [LICENSE](LICENSE) file for the full text, or read the summary at
+<https://www.gnu.org/licenses/gpl-3.0.html>.
