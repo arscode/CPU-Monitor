@@ -1,4 +1,4 @@
-# cpu-monitor
+# CPU-monitor
 
 A sleek, semi-transparent system monitor panel for Ubuntu/Linux. Frameless +
 rounded, with Auto/Light/Dark themes (Auto follows the GNOME system theme).
@@ -156,4 +156,5 @@ behaviour). Run it from source as shown in **Run from source** above.
 
 ## License
 
-[GNU GPL-3.0-or-later](LICENSE) © 2026 Arunabha Saha
+This project is licensed under the GNU General Public License v3.0 or later —
+see the [LICENSE](LICENSE) file for the full text.
