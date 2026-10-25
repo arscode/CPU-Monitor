@@ -1,4 +1,4 @@
-# Sleek Monitor
+# cpu-monitor
 
 A sleek, semi-transparent system monitor panel for Ubuntu/Linux. Frameless +
 rounded, with Auto/Light/Dark themes (Auto follows the GNOME system theme).
